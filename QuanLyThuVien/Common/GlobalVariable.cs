@@ -26,5 +26,19 @@ namespace QuanLyThuVien.Common
                 }
             }
         }
+        public bool PostApi(string url, string body)
+        {
+            HttpClient client = new HttpClient();
+            var content = new StringContent(body, Encoding.UTF8, "application/json");
+            HttpResponseMessage response = client.PostAsync(url, content).Result;
+            if (response.IsSuccessStatusCode)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 }

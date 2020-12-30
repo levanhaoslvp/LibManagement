@@ -26,3 +26,13 @@ C:\Users\DELL\Desktop\c#\Library-Management-System\DTO\obj\Debug\DTO.csproj.Core
 C:\Users\DELL\Desktop\c#\Library-Management-System\DTO\obj\Debug\DTO.csproj.CopyComplete
 C:\Users\DELL\Desktop\c#\Library-Management-System\DTO\obj\Debug\DTO.dll
 C:\Users\DELL\Desktop\c#\Library-Management-System\DTO\obj\Debug\DTO.pdb
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DTO\bin\Debug\DTO.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DTO\bin\Debug\DTO.pdb
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DTO\bin\Debug\MetroFramework.Design.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DTO\bin\Debug\MetroFramework.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DTO\bin\Debug\MetroFramework.Fonts.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DTO\obj\Debug\DTO.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DTO\obj\Debug\DTO.pdb

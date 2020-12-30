@@ -12,7 +12,7 @@ namespace DAL
     {
         public DatabaseAccess() { }
         // không cần đổi chuỗi kếết nối nữa, dùng chung cho mọi máy
-        public string strConn = @"Data Source=.\SQLEXPRESS;Initial Catalog=QuanLyThuVien;Integrated Security=True";
+        public string strConn = @"Data Source=CTO-TaQuocHung;Initial Catalog=QuanLyThuVien;Integrated Security=True";
         protected SqlConnection conn = null;
         public void OpenConnection()
         {

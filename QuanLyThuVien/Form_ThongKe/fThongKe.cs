@@ -70,7 +70,7 @@ namespace QuanLyThuVien.Form_ThongKe
             foreach(var item in list)
             {
                 ListViewItem lvi = new ListViewItem(i+"");
-                lvi.SubItems.Add(item.MaSach+"");
+                lvi.SubItems.Add(item.MaDauSach+"");
                
                 lvSachTheoTheLoai.Items.Add(lvi);
                 i++;

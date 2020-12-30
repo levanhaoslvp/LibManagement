@@ -140,3 +140,45 @@ C:\Users\DELL\Desktop\c#\Library-Management-System\QuanLyThuVien\obj\Debug\QuanL
 C:\Users\DELL\Desktop\c#\Library-Management-System\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
 C:\Users\DELL\Desktop\c#\Library-Management-System\QuanLyThuVien\bin\Debug\Newtonsoft.Json.dll
 C:\Users\DELL\Desktop\c#\Library-Management-System\QuanLyThuVien\bin\Debug\Newtonsoft.Json.xml
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\GUI.csprojAssemblyReference.cache
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form1.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.QuanLyDocGia.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Login.fLogin.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.SuaThongTinDocGia.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThemDocGIa.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_DocGia.ThongTinChiTietDocGiacs.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_ChiTietMuonTra.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_MuonSach.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.Form_TraSach.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_MuonTra.QuanLi_MuonTra.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.FormThemNV.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.QuanLy_NhanVien.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.SuaNhanVien.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_NhanVien.ThongKeNV.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.QuanLi_Sach.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.SuaDauSach.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemDauSach.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThemSach.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongKe.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_Sach.ThongTinChiTietSach.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form_ThongKe.fThongKe.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\BLL.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\DAL.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\DTO.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\MetroFramework.Design.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\MetroFramework.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\MetroFramework.Fonts.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\Newtonsoft.Json.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\BLL.pdb
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\DAL.pdb
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\DTO.pdb
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\bin\Debug\Newtonsoft.Json.xml
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\QuanLyThuVien\obj\Debug\GUI.csproj.CopyComplete

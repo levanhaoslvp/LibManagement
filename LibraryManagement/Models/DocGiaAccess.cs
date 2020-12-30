@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using LibraryManagement.DTO.DocGia;
+using Newtonsoft.Json;
 
 namespace LibraryManagement.Models
 {
@@ -189,7 +191,7 @@ namespace LibraryManagement.Models
                     docGia.queQuan = "Chưa có thông tin";
                 }
 
-               
+
             }
             reader.Close();
             return docGia;
@@ -265,7 +267,7 @@ namespace LibraryManagement.Models
             reader.Close();
             return sachDangMuons;
         }
-        public bool TraSach (string maSach)
+        public bool TraSach(string maSach)
         {
             OpenConnection();
             SqlCommand command = new SqlCommand();
@@ -308,23 +310,32 @@ namespace LibraryManagement.Models
             command.Parameters.Add("@maDocGia", SqlDbType.Int).Value = docGia.maDocGia;
 
             return command.ExecuteNonQuery();
-           
+
         }
         public bool ThemDocGia(DocGia docGia)
         {
-            OpenConnection();
-            SqlCommand command = new SqlCommand();
-            command.CommandType = CommandType.Text;
-            command.CommandText = "EXEC themDocGia @maDocGia, @tenDocGia, @donVi, @ngaySinh, @sdt, @queQuan";
-            command.Connection = conn;
-            command.Parameters.Add("@maDocGia", SqlDbType.Int).Value = docGia.maDocGia;
-            command.Parameters.Add("@tenDocGia", SqlDbType.NVarChar).Value = docGia.tenDocGia;
-            command.Parameters.Add("@donVi", SqlDbType.NVarChar).Value = docGia.donVi;
-            command.Parameters.Add("@ngaySinh", SqlDbType.DateTime).Value = docGia.ngaySinh;
-            command.Parameters.Add("@sdt", SqlDbType.Int).Value = docGia.sdt;
-            command.Parameters.Add("@queQuan", SqlDbType.NVarChar).Value = docGia.queQuan;
-            int kq = command.ExecuteNonQuery();
-            return kq > 0;
+            try
+            {
+                OpenConnection();
+                SqlCommand command = new SqlCommand();
+                command.CommandType = CommandType.Text;
+                command.CommandText = "EXEC themDocGia @maDocGia, @tenDocGia, @donVi, @ngaySinh, @sdt, @queQuan";
+                command.Connection = conn;
+                command.Parameters.Add("@maDocGia", SqlDbType.Int).Value = docGia.maDocGia;
+                command.Parameters.Add("@tenDocGia", SqlDbType.NVarChar).Value = docGia.tenDocGia;
+                command.Parameters.Add("@donVi", SqlDbType.NVarChar).Value = docGia.donVi;
+                command.Parameters.Add("@ngaySinh", SqlDbType.DateTime).Value = docGia.ngaySinh;
+                command.Parameters.Add("@sdt", SqlDbType.Int).Value = docGia.sdt;
+                command.Parameters.Add("@queQuan", SqlDbType.NVarChar).Value = docGia.queQuan;
+                int kq = command.ExecuteNonQuery();
+                return kq > 0;
+            }
+            catch(Exception e)
+            {
+                throw;
+            }
+
+
         }
         public bool KiemTraXemSachCoTonTaikhong(string maSach)
         {

@@ -45,3 +45,15 @@ C:\Users\DELL\Desktop\c#\Library-Management-System\DAL\obj\Debug\DAL.csproj.Core
 C:\Users\DELL\Desktop\c#\Library-Management-System\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\DELL\Desktop\c#\Library-Management-System\DAL\obj\Debug\DAL.dll
 C:\Users\DELL\Desktop\c#\Library-Management-System\DAL\obj\Debug\DAL.pdb
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\bin\Debug\DAL.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\bin\Debug\DAL.pdb
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\bin\Debug\DTO.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\bin\Debug\MetroFramework.Design.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\bin\Debug\MetroFramework.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\bin\Debug\MetroFramework.Fonts.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\bin\Debug\DTO.pdb
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\obj\Debug\DAL.dll
+F:\Kỳ 1 năm 4 MTA\Công nghệ lập trình tích hợp\BTL\LibManagement\DAL\obj\Debug\DAL.pdb
